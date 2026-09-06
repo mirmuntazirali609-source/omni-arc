@@ -27,3 +27,4 @@ if st.button("🚀 GO OMNI!!"):
         st.write(r.choices[0].message.content)
     else:
         st.write(f"Demo answer for: {q}")
+        
