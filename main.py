@@ -21,4 +21,4 @@ if st.button("🚀 GO OMNI!!!"):
         st.write(response.choices[0].message.content)
     else:
         st.warning("Type something first!")
-        
+
